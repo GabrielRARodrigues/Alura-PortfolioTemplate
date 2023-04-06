@@ -69,3 +69,7 @@ body {
   text-decoration: none;
   color: #f6f6f6;
 }
+
+.apresentacao__links__link:hover {
+  background-color: #272727;
+}
