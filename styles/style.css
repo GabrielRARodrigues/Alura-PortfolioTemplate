@@ -83,6 +83,7 @@ body {
 
 .apresentacao__links__navegacao {
   display: flex;
+  align-items: center;
   justify-content: center;
   gap: 16px;
   font-family: var(--fonte-secundaria);
