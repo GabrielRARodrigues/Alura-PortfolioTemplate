@@ -67,6 +67,11 @@ body {
   font-family: var(--fonte-secundaria);
 }
 
+.apresentacao__conteudo__texto a {
+  text-decoration: none;
+  color: #22d4fd;
+}
+
 .apresentacao__links {
   display: flex;
   flex-direction: column;
